@@ -1,6 +1,6 @@
 import React from "react";
 import Dove from "../assets/images/Dove.png";
-
+import Shokubutsu from "../assets/images/Shokubutsu.png";
 
 const FeaturedBox = () => {
   return (
@@ -14,8 +14,8 @@ const FeaturedBox = () => {
         </div>
         <div className="featured-text-info">
           <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-          when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+ครีมอาบน้ำ (หรือ"Body Wash") เป็นผลิตภัณฑ์ทำความสะอาดร่างกายที่มีลักษณะเป็นของเหลวคล้ายเจล
+ ใช้สำหรับทำความสะอาดผิวระหว่างการอาบน้ำ ครีมอาบน้ำมักมีส่วนผสมที่ช่วยให้เกิดฟอง ทำให้ผิวรู้สึกสะอาดและสดชื่นหลังการใช้งาน ผลิตภัณฑ์นี้มีหลากหลายประเภทและสูตรที่ตอบโจทย์สภาพผิวและความต้องการที่แตกต่างกัน
           </p>
         </div>
         <div className="featured-text-btn">
@@ -39,7 +39,7 @@ const FeaturedBox = () => {
             </a>
           </div>
           <div className="icon">
-            <a href="https://github.com/Eyejangg">
+            <a href="https://github.com/Kittipong001">
               <i className="uil uil-github"></i>
             </a>
           </div>
@@ -84,7 +84,7 @@ const FeaturedBox = () => {
       </div>
       <div className="featured-image">
         <div className="image">
-          <img src={Dove} alt="Dove" />
+          <img src={Shokubutsu} alt="Shokubutsu" />
         </div>
         
       </div>

@@ -35,7 +35,7 @@ const Footer = () => {
             </a>
           </div>
           <div className="icon">
-            <a href="https://github.com/Eyejangg">
+            <a href="https://github.com/Kittipong001">
               <i className="uil uil-github"></i>
             </a>
           </div>
